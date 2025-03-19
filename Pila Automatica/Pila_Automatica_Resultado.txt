@@ -1,0 +1,9 @@
+(q,000111,z)⊦
+(q,00111,Xz)⊦
+(q,0111,XXz)⊦
+(q,111,XXXz)⊦
+(p,11,XXz)⊦
+(p,1,Xz)⊦
+(p,e,z)⊦
+(f,e,z)
+La cadena es aceptada
