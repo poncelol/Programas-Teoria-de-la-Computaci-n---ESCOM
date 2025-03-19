@@ -1,5 +1,5 @@
 # Teoria de la Computacion ESCOM
-Son Programas de Materia de Teoría de Programación cursando en ESCOM con el Profesor Genaro Juarez Martinezpongo algunas variantes de algunos programas. 
+Son Programas de Materia de Teoría de Programación cursando en ESCOM con el Profesor Genaro Juarez Martinez, pongo algunas variantes de algunos programas. 
 
 Recomendación usar la versión de Python 3.12.
 
