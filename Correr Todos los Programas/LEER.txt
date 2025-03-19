@@ -1,0 +1,6 @@
+Coloca los programas que necesites ejecutar en esta línea de código:
+
+programas = ["Ejemplo 1.py", "Ejemplo 2.py", "Ejemplo 3.py", "Ejemplo 4.py"]
+
+Usa los nombres exactos con los que los tengas guardados en una MISMA CARPETA.
+
