@@ -1,0 +1,3 @@
+Instalar Graphviz.exe necesario para vizualizar el grafo
+- Add graphviz to the system path for current user
+

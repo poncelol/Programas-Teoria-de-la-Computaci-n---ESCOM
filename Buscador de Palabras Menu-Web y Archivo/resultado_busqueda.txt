@@ -1,0 +1,37 @@
+
+--------------------------------------------------------------------------------
+
+	Palabra Reservada: acoso --- # de Apariciones: 2
+Coordenadas de 'acoso' encontradas:
+(4, 1), (4, 3)
+
+
+	Palabra Reservada: acecho --- # de Apariciones: 2
+Coordenadas de 'acecho' encontradas:
+(15, 1), (269, 3)
+
+
+	Palabra Reservada: víctima --- # de Apariciones: 4
+Coordenadas de 'víctima' encontradas:
+(141, 1), (204, 3), (166, 5), (164, 7)
+
+
+	Palabra Reservada: agresión --- # de Apariciones: 1
+Coordenadas de 'agresión' encontradas:
+(295, 1)
+
+
+	Palabra Reservada: machista --- # de Apariciones: 2
+Coordenadas de 'machista' encontradas:
+(304, 1), (330, 7)
+
+
+	Palabra Reservada: violación --- # de Apariciones: 1
+Coordenadas de 'violación' encontradas:
+(109, 5)
+
+
+	Palabra Reservada: violencia --- # de Apariciones: 5
+Coordenadas de 'violencia' encontradas:
+(36, 1), (384, 3), (24, 5), (4, 7), (320, 7)
+
