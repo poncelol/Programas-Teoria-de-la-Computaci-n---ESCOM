@@ -1,0 +1,29 @@
+Resultados del análisis:
+Palabra: acoso
+  Ocurrencias: 2
+  Ubicaciones: [(4, 1), (4, 3)]
+
+Palabra: acecho
+  Ocurrencias: 2
+  Ubicaciones: [(15, 1), (269, 3)]
+
+Palabra: víctima
+  Ocurrencias: 4
+  Ubicaciones: [(141, 1), (204, 3), (166, 5), (164, 7)]
+
+Palabra: agresión
+  Ocurrencias: 1
+  Ubicaciones: [(295, 1)]
+
+Palabra: machista
+  Ocurrencias: 2
+  Ubicaciones: [(304, 1), (330, 7)]
+
+Palabra: violación
+  Ocurrencias: 1
+  Ubicaciones: [(109, 5)]
+
+Palabra: violencia
+  Ocurrencias: 5
+  Ubicaciones: [(36, 1), (384, 3), (24, 5), (4, 7), (320, 7)]
+
